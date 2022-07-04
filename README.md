@@ -25,17 +25,17 @@ Note: You need not base your definition on any existing framework.
 I decided to do the Best State of India Challenge.
 For that, I used the following 6 traits:
 
-**Literacy Rate**: http://www.pincodeindia.net/literacy-rate.php
+**Literacy Rate**
 
-**Unemployment Rate**: https://unemploymentinindia.cmie.com/kommon/bin/sr.php?kall=wsttimeseries&index_code=050050000000&dtype=total
+**Unemployment Rate**
 
-**NSDP Per Capita**: https://en.wikipedia.org/wiki/List_of_Indian_states_and_union_territories_by_GDP_per_capita#cite_note-:0-2
+**NSDP Per Capita**
 
-**Life Expectancy**: https://m.rbi.org.in/Scripts/PublicationsView.aspx?id=20671
+**Life Expectancy**
 
-**Violent Crimes**: Downloaded File from NDAP
+**Violent Crimes**
 
-**Per Capita Availability of Power**: Downloaded https://m.rbi.org.in/Scripts/PublicationsView.aspx?id=20781
+**Per Capita Availability of Power**
 
 
 
