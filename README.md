@@ -1,12 +1,16 @@
+
+
 - [Data-Viz-With-IIP](#data-viz-with-iip)
     - [Week-1 Challenge:](#week-1-challenge)
   
-
 # Data-Viz-With-IIP
+![Logo]('Code/Python/Data-Viz-With-IIP/IIP.jpeg)
 
-Anyone who is interested in Data Visualizations related to India must have seen some really cool graphics from India in Pixels (https://twitter.com/indiainpixels).
 
-Ashris is the guy behind the amazing work at IIP. Together with Unacademy, he has started a course on Data Visualization. Every Weekend a certain aspect of Data Viz will be taught and a certain challenge will be given to for everyone to participate.
+
+Anyone who is interested in Data Visualizations related to India must have seen some really cool graphics from [India in Pixels](https://twitter.com/indiainpixels).
+
+Ashris is the guy behind the amazing work at IIP. Together with Unacademy, he has started a course on Data Visualization. Every Weekend a certain aspect of Data Viz will be taught and a certain challenge will be given for everyone to participate.
 
 ### Week-1 Challenge:
 
@@ -29,17 +33,17 @@ Note: You need not base your definition on any existing framework.
 I decided to do the Best State of India Challenge.
 For that, I used the following 6 traits:
 
-**Literacy Rate**
+1. **Literacy Rate**
 
-**Unemployment Rate**
+2. **Unemployment Rate**
 
-**NSDP Per Capita**
+3. **NSDP Per Capita**
 
-**Life Expectancy**
+4. **Life Expectancy**
 
-**Violent Crimes**
+5. **Violent Crimes**
 
-**Per Capita Availability of Power**
+6. **Per Capita Availability of Power**
 
 The Analysis part is in the [Week1 Jupyter Notebook](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Week1.ipynb).
 
