@@ -37,5 +37,7 @@ For that, I used the following 6 traits:
 
 **Per Capita Availability of Power**
 
+The Analysis part is in the Week1 Jupyter Notebook (https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Week1.ipynb)
+
 
 
