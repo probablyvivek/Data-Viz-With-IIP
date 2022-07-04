@@ -4,7 +4,7 @@ Anyone who is interested in Data Visualizations related to India must have seen 
 
 Ashris is the guy behind the amazing work at IIP. Together with Unacademy, he has started a course on Data Visualization. Every Weekend a certain aspect of Data Viz will be taught and a certain challenge will be given to for everyone to participate.
 
-Week-1 Challenge:
+### Week-1 Challenge:
 
 ## Dear Alien Friend
 
