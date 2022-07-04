@@ -4,9 +4,6 @@
     - [Week-1 Challenge:](#week-1-challenge)
   
 # Data-Viz-With-IIP
-![Logo]('Code/Python/Data-Viz-With-IIP/IIP.jpeg)
-
-
 
 Anyone who is interested in Data Visualizations related to India must have seen some really cool graphics from [India in Pixels](https://twitter.com/indiainpixels).
 
