@@ -1,15 +1,15 @@
 
-
-- [Data-Viz-With-IIP](#data-viz-with-iip)
-    - [Week-1 Challenge:](#week-1-challenge)
-  
 # Data-Viz-With-IIP
+- [Week-1 Challenge](#week-1-challenge)
+- 
+  
+
 
 Anyone who is interested in Data Visualizations related to India must have seen some really cool graphics from [India in Pixels](https://twitter.com/indiainpixels).
 
 Ashris is the guy behind the amazing work at IIP. Together with Unacademy, he has started a course on Data Visualization. Every Weekend a certain aspect of Data Viz will be taught and a certain challenge will be given for everyone to participate.
 
-### Week-1 Challenge:
+### Week-1 Challenge
 
 **Dear Alien Friend**
 
