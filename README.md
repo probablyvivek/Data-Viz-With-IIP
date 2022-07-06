@@ -64,7 +64,6 @@ For that, I used the following 6 traits:
 
 The Analysis part is in the [Week1 Jupyter Notebook](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Week1.ipynb).
 
-
-
+![Map](../Data-Viz-With-IIP/Best%20State%20of%20India.png)
 
 
