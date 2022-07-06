@@ -59,8 +59,7 @@ For that, I used the following 6 traits:
 ---
 ### Data can be found at the following [link](https://docs.google.com/spreadsheets/d/1aYZc-aiJk40XSal2F5SCuA2WnQoslIAHY6PRS2w41R0/edit?usp=sharing)
 
-The Analysis part is in the [Week1 Jupyter Notebook](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Week1.ipynb).
+The Analysis part and the map is in the [Week1 Jupyter Notebook](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Week1.ipynb).
 
-![Map](../Data-Viz-With-IIP/Best%20State%20of%20India.png)
 
 
