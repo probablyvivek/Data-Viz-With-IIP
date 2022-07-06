@@ -1,12 +1,9 @@
 
 # Data-Viz-With-IIP
-
 - [Data-Viz-With-IIP](#data-viz-with-iip)
   - [Week-1 Challenge](#week-1-challenge)
-    - [The Six Traits](#the-six-traits)
+  - [The Six Traits](#-the-six-traits)
   
-
-
 Anyone who is interested in Data Visualizations related to India must have seen some really cool graphics from [India in Pixels](https://twitter.com/indiainpixels).
 
 Ashris is the guy behind the amazing work at IIP. Together with Unacademy, he has started a course on Data Visualization. Every Weekend a certain aspect of Data Viz will be taught and a certain challenge will be given for everyone to participate.
