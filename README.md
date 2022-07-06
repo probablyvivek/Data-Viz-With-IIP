@@ -35,7 +35,7 @@ For that, I used the following 6 traits:
 1. **[Life Expectancy](https://m.rbi.org.in/Scripts/PublicationsView.aspx?id=20671)**
 
 > Data relating to Bihar, Madhya Pradhesh and Uttar Pradesh includes Jharkhand, Chhattisgarh and Uttarkhand, respectively. For states with NA values, mean of all states is taken.
-
+   
 2. **[Literacy Rate](http://www.pincodeindia.net/literacy-rate.php)**
 
 > Also called the "effective literacy rate"; the total percentage of the population of an area at a particular time aged seven years or above who can read and write with understanding. Here the denominator is the population aged seven years or more.
@@ -52,7 +52,7 @@ For that, I used the following 6 traits:
 
 > Crime Rate is calculated as Crime per one lakh of population.
 
-6. **[Net State Value Added by Agriculture](https://m.rbi.org.in/Scripts/PublicationsView.aspx?id=20781)**
+6. **[Net State Value Added by Agriculture](https://m.rbi.org.in/Scripts/PublicationsView.aspx?id=20684)**
 
  > Constant Prices
 
