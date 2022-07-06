@@ -56,6 +56,8 @@ For that, I used the following 6 traits:
 
  > Constant Prices
 
+<!---State-wise Per Capita Availability of Power https://m.rbi.org.in/Scripts/PublicationsView.aspx?id=20781 --->
+
 ---
 ### Data can be found at the following [link](https://docs.google.com/spreadsheets/d/1aYZc-aiJk40XSal2F5SCuA2WnQoslIAHY6PRS2w41R0/edit?usp=sharing)
 
