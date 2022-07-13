@@ -3,6 +3,7 @@
 - [Data-Viz-With-IIP](#data-viz-with-iip)
   - [Week-1 Challenge](#week-1-challenge)
   - [The Six Traits](#-the-six-traits)
+  - [Week-2 Challenge](#week-2-challenge)
   
 Anyone who is interested in Data Visualizations related to India must have seen some really cool graphics from [India in Pixels](https://twitter.com/indiainpixels).
 
@@ -64,5 +65,13 @@ For that, I used the following 6 traits:
 The Analysis part and the map is in the [Week1 Jupyter Notebook](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Week1.ipynb).
 
 ![Map](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Best%20State%20of%20India.png?raw=true)
+
+---
+## Week-2 Challenge
+![Flag](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Screenshot%202022-07-13%20at%2017.31.41.png?raw=true)
+
+For this we had to use p5js to create the flag.
+
+
 
 :smile:
