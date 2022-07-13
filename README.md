@@ -68,7 +68,7 @@ The Analysis part and the map is in the [Week1 Jupyter Notebook](https://github.
 
 ---
 ## Week-2 Challenge
-![Flag](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Screenshot%202022-07-13%20at%2017.31.41.png?raw=true)
+![Flag](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Week2_Challenge.png?raw=true)
 
 For this we had to use p5js to create the flag.
 
