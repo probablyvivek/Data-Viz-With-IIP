@@ -81,7 +81,21 @@ It took me a whole week to go through all the videos and understand the basics o
 
 Then I also always wanted to contribute to Open Source (had done that once before but forgot about it). So, I checked the [p5js github repo](https://github.com/processing/p5.js-website). Forked it and then contributed to Hindi Translation of the library. :joy:
 
-Okay. Back to the challenge.
+[Challenge](https://editor.p5js.org/probablyvivek/full/3tsSSTj5E)
+
+To this end, I decided to consider the following: Since we are  on Mars now, the flag needs to show how humans have evolved. It should also indicate that we are here from  Earth.
+
+Rectangle 1: Prussian blue symbolizes the universe / space in which we are. It is also the color of knowledge that means the vast amount of knowledge  we have and the vast amount of knowledge  we can learn. 
+
+Rectangle 2: White color symbolizes peace. Humans have come to this planet peacefully. 
+
+Ellipse 1: Orange: Symbolizes  Mars. 
+
+Ellipse 2: Blue bolt color: Symbolizes the planet Earth. 
+
+Ellipse 3: Dandelion (Crayola) Color: Symbolizes our core values ​​and our roots are connected to peace. 
+
+The moving atom symbolizes  what we have developed and  now reach Mars. 
 
 
 
