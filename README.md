@@ -2,9 +2,9 @@
 
 - [Data-Viz-With-IIP](#data-viz-with-iip)
   - [Week-1 Challenge](#week-1-challenge)
-  - [The Six Traits](#-the-six-traits)
   - [Week-2 Challenge](#week-2-challenge)
-
+  - [Week-3 Challenge](#week-3-challenge)
+  
 Anyone who is interested in Data Visualizations related to India must have seen some really cool graphics from [India in Pixels](https://twitter.com/indiainpixels).
 
 Ashris is the guy behind the amazing work at IIP. Together with Unacademy, he has started a course on Data Visualization. Every Weekend a certain aspect of Data Viz will be taught and a certain challenge will be given for everyone to participate.
@@ -58,10 +58,6 @@ For that, I used the following 6 traits:
 
 6. **[Net State Value Added by Agriculture](https://m.rbi.org.in/Scripts/PublicationsView.aspx?id=20684)**
 
-> Constant Prices
-
-<!---State-wise Per Capita Availability of Power https://m.rbi.org.in/Scripts/PublicationsView.aspx?id=20781 --->
-
 ---
 
 ### Data can be found at the following [link](https://docs.google.com/spreadsheets/d/1aYZc-aiJk40XSal2F5SCuA2WnQoslIAHY6PRS2w41R0/edit?usp=sharing)
@@ -81,7 +77,7 @@ For this we had to use p5js to create the flag.
 Before creating that, I looked up p5 tutorials and found out about the following:
 [p5js Youtube Tutorial](https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1)
 
-It took me a whole week to go through all the videos and understand the basics of p5js.
+It took me a whole week to go through all the videos and understand the basics of p5js. Also created my first [sketch](https://editor.p5js.org/probablyvivek/sketches/mtad3eaFS)
 
 Then I also always wanted to contribute to Open Source (had done that once before but forgot about it). So, I checked the [p5js github repo](https://github.com/processing/p5.js-website). Forked it and then contributed to Hindi Translation of the library. :joy:
 
@@ -90,6 +86,8 @@ Okay. Back to the challenge.
 
 
 
+---
+## Week-3 Challenge
 
 
 :smile:
