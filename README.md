@@ -83,6 +83,9 @@ Then I also always wanted to contribute to Open Source (had done that once befor
 
 [Challenge](https://editor.p5js.org/probablyvivek/full/3tsSSTj5E)
 
+![Flag](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/MarsFlag.jpg?raw=true)
+
+
 To this end, I decided to consider the following: Since we are  on Mars now, the flag needs to show how humans have evolved. It should also indicate that we are here from  Earth.
 
 Rectangle 1: Prussian blue symbolizes the universe / space in which we are. It is also the color of knowledge that means the vast amount of knowledge  we have and the vast amount of knowledge  we can learn. 
