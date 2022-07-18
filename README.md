@@ -98,12 +98,12 @@ Ellipse 2: Blue bolt color: Symbolizes the planet Earth.
 Ellipse 3: Dandelion (Crayola) Color: Symbolizes our core values ​​and our roots are connected to peace. 
 
 The moving atom symbolizes  what we have developed and  now reach Mars. 
-
-
-
-
 ---
 ## Week-3 Challenge
+Using the existing Bollywood dataset, create two p5js visualizations - one png and one gif showing what you think is an interesting insight about Bollywood.
+
+
+
 
 
 :smile:
