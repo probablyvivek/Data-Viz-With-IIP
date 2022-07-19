@@ -102,6 +102,13 @@ The moving atom symbolizes  what we have developed and  now reach Mars.
 ## Week-3 Challenge
 Using the existing Bollywood dataset, create two p5js visualizations - one png and one gif showing what you think is an interesting insight about Bollywood.
 
+**Png Visualiztion**: I decided to create a Movie Data Potrait for Shahrukh Khan's top 10 movies from the dataset. The code and the files can be found in [here](https://github.com/probablyvivek/p5/tree/main/Bollywood)
+
+![Shahrukh Khan](https://github.com/probablyvivek/p5/blob/main/Bollywood/Top10ShahrukhKhanMovies%20(1).png?raw=true)
+
+**Gif**: WIP
+
+
 
 
 
