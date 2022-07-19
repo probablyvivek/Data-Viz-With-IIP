@@ -104,7 +104,7 @@ Using the existing Bollywood dataset, create two p5js visualizations - one png a
 
 **Png Visualiztion**: I decided to create a Movie Data Potrait for Shahrukh Khan's top 10 movies from the dataset. The code and the files can be found in [here](https://github.com/probablyvivek/p5/tree/main/Bollywood)
 
-![Shahrukh Khan](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Top10ShahrukhKhanMovies.png?raw=true)
+![Shahrukh Khan](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Top10SRK.png?raw=true)
 
 **Gif**: WIP
 
