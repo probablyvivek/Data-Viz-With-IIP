@@ -4,7 +4,7 @@
   - [Week-1 Challenge](#week-1-challenge)
   - [Week-2 Challenge](#week-2-challenge)
   - [Week-3 Challenge](#week-3-challenge)
-  
+
 Anyone who is interested in Data Visualizations related to India must have seen some really cool graphics from [India in Pixels](https://twitter.com/indiainpixels).
 
 Ashris is the guy behind the amazing work at IIP. Together with Unacademy, he has started a course on Data Visualization. Every Weekend a certain aspect of Data Viz will be taught and a certain challenge will be given for everyone to participate.
@@ -85,21 +85,22 @@ Then I also always wanted to contribute to Open Source (had done that once befor
 
 ![Flag](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/MarsFlag.jpg?raw=true)
 
-I decided to consider the following: Since we are  on Mars now, the flag needs to show how humans have evolved. It should also indicate that we are here from  Earth.
+I decided to consider the following: Since we are on Mars now, the flag needs to show how humans have evolved. It should also indicate that we are here from Earth.
 
-Rectangle 1: Prussian blue symbolizes the universe / space in which we are. It is also the color of knowledge that means the vast amount of knowledge  we have and the vast amount of knowledge  we can learn. 
+Rectangle 1: Prussian blue symbolizes the universe / space in which we are. It is also the color of knowledge that means the vast amount of knowledge we have and the vast amount of knowledge we can learn.
 
-Rectangle 2: White color symbolizes peace. Humans have come to this planet peacefully. 
+Rectangle 2: White color symbolizes peace. Humans have come to this planet peacefully.
 
-Ellipse 1: Orange: Symbolizes  Mars. 
+Ellipse 1: Orange: Symbolizes Mars.
 
-Ellipse 2: Blue bolt color: Symbolizes the planet Earth. 
+Ellipse 2: Blue bolt color: Symbolizes the planet Earth.
 
-Ellipse 3: Dandelion (Crayola) Color: Symbolizes our core values ​​and our roots are connected to peace. 
+Ellipse 3: Dandelion (Crayola) Color: Symbolizes our core values ​​and our roots are connected to peace.
 
-The moving atom symbolizes  what we have developed and  now reach Mars. 
----
+The moving atom symbolizes from what we have developed and have now reached Mars.
+
 ## Week-3 Challenge
+
 Using the existing Bollywood dataset, create two p5js visualizations - one png and one gif showing what you think is an interesting insight about Bollywood.
 
 **Png Visualiztion**: I decided to create a Movie Data Potrait for Shahrukh Khan's top 10 movies from the dataset. The code and the files can be found in [here](https://github.com/probablyvivek/p5/tree/main/Bollywood)
@@ -107,10 +108,6 @@ Using the existing Bollywood dataset, create two p5js visualizations - one png a
 ![Shahrukh Khan](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Top10SRK.png?raw=true)
 
 **Gif**: WIP
-
-
-
-
 
 
 :smile:
