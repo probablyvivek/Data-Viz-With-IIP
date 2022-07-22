@@ -114,6 +114,8 @@ Well, didn't really make a gif but ended up making a generative visualization. T
 
 ![Art](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/mySketch.png?raw=true)
 
+The [Interactive](https://editor.p5js.org/probablyvivek/full/KGndMpahB) version can be checked here.
+
 
 ---
 ## Week-4 Challenge
