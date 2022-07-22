@@ -107,7 +107,11 @@ Using the existing Bollywood dataset, create two p5js visualizations - one png a
 
 ![Shahrukh Khan](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Top10SRK.png?raw=true)
 
-**Gif**: WIP
+**Gif**: 
+
+Well, didn't really make a gif but ended up making a generative visualization.
+
+
 
 
 :smile:
