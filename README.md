@@ -120,6 +120,7 @@ The [Interactive](https://editor.p5js.org/probablyvivek/full/KGndMpahB) version 
 ---
 ## Week-4 Challenge
 
+![Challenge](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Week4%20Challenge.png?raw=true)
 
 
 
