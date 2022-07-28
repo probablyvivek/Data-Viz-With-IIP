@@ -5,6 +5,7 @@
   - [Week-2 Challenge](#week-2-challenge)
   - [Week-3 Challenge](#week-3-challenge)
   - [Week-4 Challenge](#week-4-challenge)
+  - [Week-5 Challenge](#week-5-challenge)
 
 Anyone who is interested in Data Visualizations related to India must have seen some really cool graphics from [India in Pixels](https://twitter.com/indiainpixels).
 
@@ -100,6 +101,7 @@ Ellipse 3: Dandelion (Crayola) Color: Symbolizes our core values ​​and our r
 
 The moving atom symbolizes from what we have developed and have now reached Mars.
 
+---
 ## Week-3 Challenge
 
 Using the existing Bollywood dataset, create two p5js visualizations - one png and one gif showing what you think is an interesting insight about Bollywood.
@@ -128,10 +130,12 @@ We can scrape any link of howstat using this notebook which gives us files in JS
 
 I decided to scrape data for players scoring most runs in boundary during an IPL innings and then visualize the % of runs scored in boundaries in the innings. 
 
-Viz in WIP.
+Here is how the viz looks like.
 
+![Viz](https://github.com/probablyvivek/p5/blob/main/IPL/mySketch.png?raw=true)
 
+The [Code](https://editor.p5js.org/probablyvivek/sketches/3DAYagql1) can be found here.
 
-
-
+---
+## Week-5 Challenge
 :smile:
