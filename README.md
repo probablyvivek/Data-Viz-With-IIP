@@ -122,6 +122,15 @@ The [Interactive](https://editor.p5js.org/probablyvivek/full/KGndMpahB) version 
 
 ![Challenge](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Week4%20Challenge.png?raw=true)
 
+[Code](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/howstat.ipynb) for scraping data from Howstat.
+
+We can scrape any link of howstat using this notebook which gives us files in JSON and CSV format.
+
+I decided to scrape data for players scoring most runs in boundary during an IPL innings and then visualize the % of runs scored in boundaries in the innings. 
+
+Viz in WIP.
+
+
 
 
 
