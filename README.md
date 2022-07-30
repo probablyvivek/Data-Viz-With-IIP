@@ -132,7 +132,7 @@ I decided to scrape data for players scoring most runs in boundary during an IPL
 
 Here is how the viz looks like.
 
-![Viz](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/IPLMostRuns.png?raw=True)
+![Viz](https://github.com/probablyvivek/p5/blob/main/IPL/IPL.png?raw=True)
 
 The [Code](https://editor.p5js.org/probablyvivek/sketches/3DAYagql1) can be found here.
 
