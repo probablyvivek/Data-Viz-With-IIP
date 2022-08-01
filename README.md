@@ -138,4 +138,15 @@ The [Code](https://editor.p5js.org/probablyvivek/sketches/3DAYagql1) can be foun
 
 ---
 ## Week-5 Challenge
+This was a little different week. We learned different aspects of art and design composition and some advanced visualisation techniques like making 3D networks and data sonification.
+
+The Challenge for the week:
+![Challenge](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Art%20Critique.png?raw=true)
+
+So, for this I decided to check Google Arts & Culture and searched for [**The Louvre**](https://artsandculture.google.com/asset/sites-%C3%A9ternels-les-antiquit%C3%A9s-assyriennes-dans-la-moiti%C3%A9-nord-de-l-aile-de-la-colonnade-au-mus%C3%A9e-du-louvre-charles-maurand-19e-si%C3%A8cle-et-r%C3%A9gis-augustin-1813-1880/EQGQ1Q11eltoIg)
+
+
+
+
+
 :smile:
