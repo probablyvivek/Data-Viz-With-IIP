@@ -148,8 +148,6 @@ Being a big time Nolan fan. I just took screenshots from some of his movies to s
 [Nolan's Use of Balance](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/USE%20of%20Balance.pdf)
 
 
-WIP
-
 
 
 
