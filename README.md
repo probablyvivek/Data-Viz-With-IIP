@@ -143,6 +143,11 @@ This was a little different week. We learned different aspects of art and design
 The Challenge for the week:
 ![Challenge](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/Art%20Critique.png?raw=true)
 
+Being a big time Nolan fan. I just took screenshots from some of his movies to showcase how he used Balance in his frames. Other elements can be found too but I just showed how he uses Symmetrical and Asymmetrical balance in his movies.
+
+[Nolan's Use of Balance](https://github.com/probablyvivek/Data-Viz-With-IIP/blob/main/USE%20of%20Balance.pdf)
+
+
 WIP
 
 
